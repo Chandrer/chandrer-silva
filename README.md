@@ -33,7 +33,7 @@ Atualmente estou em transição para ampliar minha stack e evoluir como desenvol
 | Projeto | Descrição |
 |--------|-----------|
 | `advpl-ferramentas` | Coleção de utilitários em ADVPL para melhorar produtividade e manutenibilidade |
-| `checklist-validacao` | Checklist de validação pessoal para entregas profissionais sem rebote |
+| `checklist-validacao` | Checklist de validação pessoal para entregas profissionais |
 | (em breve) `back-end-labs` | Repositório com estudos práticos em Python para back-end |
 
 ---
@@ -45,7 +45,6 @@ Atualmente estou em transição para ampliar minha stack e evoluir como desenvol
 - [x] Estruturação de checklist pessoal de validação
 - [ ] Estudar Python para backend (início em 2026)
 - [ ] Publicar repositório com estudos reais
-- [ ] Criar produto próprio
 
 ---
 
