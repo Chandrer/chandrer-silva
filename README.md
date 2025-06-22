@@ -5,7 +5,7 @@
 
 **Desenvolvedor Backend | Especialista em ADVPL/Protheus | Fundador do Chands Desenv**
 
-Sou um desenvolvedor com mais de 5 anos de experiência no ecossistema Protheus, atuando com foco em performance, estabilidade e entregas sem rebote.  
+Sou um desenvolvedor com mais de 5 anos de experiência no ecossistema Protheus, atuando com foco em performance, estabilidade e entregas.
 Atualmente estou em transição para ampliar minha stack e evoluir como desenvolvedor de back-end com tecnologias modernas.
 
 ---
