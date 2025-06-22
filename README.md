@@ -24,7 +24,7 @@ Atualmente estou em transição para ampliar minha stack e evoluir como desenvol
 - **ADVPL / Protheus**
 - SQL / T-SQL
 - Git
-- (estudando Python/C# para backend em 2026)
+- (estudando C#/Python/NodeJS/TypeScript para backend em 2026)
 
 ---
 
